@@ -19,7 +19,7 @@ cleanSlate is a Python script designed to securely wipe any connected drives on 
 
 1. **Clone the repository or download the script:**
     ```bash
-    git clone https://github.com/TDM2187/cleanSlate.git
+    git clone https://github.com/TMuckler/cleanSlate.git
     cd cleanSlate
     ```
 
